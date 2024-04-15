@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color:hsl(206, 94%, 87%);
+    color: hsl(213, 96%, 18%);
+    font-weight: 500;
+}
+
+.transform_50 {
+    transform: translate(-50%, -50%);
+}
